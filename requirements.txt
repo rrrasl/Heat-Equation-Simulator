@@ -1,0 +1,2 @@
+numpy       → matrix calculations / linear algebra
+matplotlib  → drawing and animating temperature diffusion
