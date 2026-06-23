@@ -61,15 +61,13 @@ Final state:
 
 ## Results
 
-Insert screenshots here.
-
 ### Temperature Evolution
 
 ![Temperature Evolution](results/temperature_plot.png)
 
 ### Animation
 
-Add generated GIF here.
+![Animated GIF](results/animation.gif)
 
 ## Repository Structure
 
